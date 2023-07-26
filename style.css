@@ -4,19 +4,30 @@
 }
 
 .cabeçalho{
-    background-color: rgb(8, 8, 8);
-color: rgb(241, 237, 237);
+    background-color: rgb(7, 3, 255);
+color: rgb(2, 2, 2);
 display: flex;
 justify-content: space-around;
 align-items: center;
 padding: 24px;
 }
   .cabeçalho-imagem {
-width: 20%;
+width: 15%;
   }
  
 .cabeçalho-lista-item{
     display: inline-block;
     margin: 16px;
     font-size: 24px;
+}
+.escola-imagem{
+width: 35%;
+}
+.Escola{
+  background-image:linear-gradient(#1101f8,#fdfdfd);
+  color: rgb(2, 2, 2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px0;
 }
